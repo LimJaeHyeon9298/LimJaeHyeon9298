@@ -2,6 +2,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjh9298)](https://solved.ac/limjh9298/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimJaeHyeon9298&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimJaeHyeon9298&layout=compact&theme=dracula)
 
 <!--
 **LimJaeHyeon9298/LimJAeHyeon9298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
