@@ -3,7 +3,14 @@
 안녕하세요. 부족함을 인정하고, 빠르게 채우는 iOS 개발자 임재현입니다.
 
 
-## 🛠️ Project
+## Skill & Language
+
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+## Project
 
 - 봉투백서: 상황과 관계에 맞는 적정 금액 추천과, 경조사 기록 관리를 도와주는 앱  
   - [봉투백서: Repository](https://github.com/bongtubaekseo/BongBaek-iOS)
@@ -31,7 +38,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LimJaeHyeon9298&show_icons=true&theme=dracula" height="180"/> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimJaeHyeon9298&layout=compact&theme=dracula" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=LimJaeHyeon9298&show_icons=true&theme=dracula" height="180"/> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimJaeHyeon9298&layout=compact&theme=dracula" height="180"/> -->
 
 <!--
 **LimJaeHyeon9298/LimJAeHyeon9298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
