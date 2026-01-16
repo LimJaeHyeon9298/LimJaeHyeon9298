@@ -12,6 +12,14 @@
 
 ## iOS Project
 
+### 틈틈잇
+- AI 기반 맞춤형 퀴즈로 출퇴근 시간을 학습 시간으로 바꾸는 iOS 앱
+
+<img width="7840" height="2796" alt="Group 1597880435" src="https://github.com/user-attachments/assets/22e754fe-dfd5-4375-b9fc-512cbc291927" />
+
+  - [틈틈잇: Repository](https://github.com/TeumTeumEat/TeumTeumEat-iOS)
+  - [틈틈잇: Appstore](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
+
 ### 봉투백서
 - 상황과 관계에 맞는 적정 금액 추천과, 경조사 기록 관리를 도와주는 앱  
 
@@ -47,9 +55,9 @@
 
  
 ### 우산챙겨요
+- 24시간 강수확률 확인해서 미리 우산을 준비할수 있어요!   
 <img width="2048" height="728" alt="umbrella" src="https://github.com/user-attachments/assets/5c769a59-2586-4606-b8c2-59d70ea533a5" />
 
-- 24시간 강수확률 확인해서 미리 우산을 준비할수 있어요!   
   - [우산챙겨요: Repository](https://github.com/LimJaeHyeon9298/Umbrella)
   - [우산챙겨요: Appstore](https://apps.apple.com/py/app/우산챙겨요/id6447255393)
 
