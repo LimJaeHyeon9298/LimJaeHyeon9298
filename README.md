@@ -51,7 +51,7 @@
 <img width="6210" height="2688" alt="Frame 1" src="https://github.com/user-attachments/assets/b31495b7-126d-408b-b903-f28b61f56ee3" />
 
   - [ReptileHub: Repository](https://github.com/APP-iOS5th/FinalProject-ReptileHub)
-  - [ReptileHub: Appstore](https://apps.apple.com/kr/app/렙타일허브/id6673909902)
+  - ReptileHub: Appstore (앱스토어 내려감)
 
  
 ### 우산챙겨요
@@ -59,7 +59,7 @@
 <img width="2048" height="728" alt="umbrella" src="https://github.com/user-attachments/assets/5c769a59-2586-4606-b8c2-59d70ea533a5" />
 
   - [우산챙겨요: Repository](https://github.com/LimJaeHyeon9298/Umbrella)
-  - [우산챙겨요: Appstore](https://apps.apple.com/py/app/우산챙겨요/id6447255393)
+  - [우산챙겨요: Appstore](https://apps.apple.com/kr/app/우산챙겨요/id6447255393)
 
    
 
